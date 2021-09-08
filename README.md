@@ -4,6 +4,8 @@ written in discord py
 too lazy to make >>help lmao please help me
 
 # how to use
+run threadbot.py and have fun
+
 to add a channel:
 `>>set <channel>`
 
